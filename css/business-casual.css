@@ -102,6 +102,18 @@ hr {
     margin: 0 auto 0;
 }
 
+.modal *{
+    color: black;
+}
+
+.members{
+    outline: none;
+    background-image: url('../img/taiku_logo.jpg');
+    background-size: 160px 140px;
+    height: 140px;
+    width: 160px;
+}
+
 footer {
     background: #fff;
     background: rgba(255,255,255,0.9);
@@ -190,3 +202,4 @@ footer p {
         clear: both;
     }
 }
+
